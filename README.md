@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Cioccari! 👋
 
-Sou um Desenvolvedor Web Full-Stack apaixonado por transformar ideias em soluções digitais completas e funcionais. Atualmente estou aprimorando minhas habilidades em desenvolvimento back-end e buscando novos desafios.
+Sou um Desenvolvedor Web Full-Stack apaixonado por transformar ideias em soluções digitais completas e funcionais. Atualmente estou aprimorando minhas habilidades em desenvolvimento web e buscando novos desafios.
 
 ---
 
